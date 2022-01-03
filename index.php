@@ -26,4 +26,4 @@ if(isset($_SESSION["username"])){
     </div>
     
 
-<?=template_footer()?>
+<?=template_footer()?////>
